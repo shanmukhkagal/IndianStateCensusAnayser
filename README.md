@@ -1,6 +1,3 @@
 # IndianStateCensusAnayser
-uc2-Ability for the analyser
-to load the Indian
-States Code
-Information from a csv
-file
+Repeat tc-Like UC 1 repeat all
+the 5 TC for UC 2
