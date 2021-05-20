@@ -1,5 +1,6 @@
 # IndianStateCensusAnayser
-uc1.2-Given the State Census
-CSV File if incorrect
+uc1.3-Given the State Census
+CSV File when correct
+but type incorrect
 Returns a custom
 Exception
