@@ -1,6 +1,6 @@
 # IndianStateCensusAnayser
-uc1.5-Given the State Census
-CSV File when correct
-but csv header
-incorrect Returns a
-custom Exception
+uc2-Ability for the analyser
+to load the Indian
+States Code
+Information from a csv
+file
